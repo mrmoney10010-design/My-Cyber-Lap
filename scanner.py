@@ -10,4 +10,4 @@ with open("scan_report.txt", "w") as file:
 
 print("✅ scan complete! Results saved to scan_report.txt")  
 
-
+print("✅ scan complete! Results saved to scan_report.txt 2")  
